@@ -1,4 +1,4 @@
-# Top Zombies Attack
+# Top-Zombies Attack
 
 Top-View Zombie game made on Construct by Mateus Amaral.
 
