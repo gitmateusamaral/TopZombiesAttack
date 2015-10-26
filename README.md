@@ -8,7 +8,7 @@ In the game you play as a survivor of a zombie apocalipse and need to survive th
 
 ###Português:
 ___
-Jogo de zumbi com visão aérea feito em construct 2 por Mateus Amaral.
+Jogo de zumbi com visão aérea feito em Construct 2 por Mateus Amaral.
 
 No jogo você joga como um sobrevivente de um apocalipse zumbi e precisa sobreviver dos zumbis utilizando apenas a sua arma.
 
