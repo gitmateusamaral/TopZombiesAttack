@@ -1,12 +1,12 @@
 # Top-Zombies Attack
 
-###English:
+### English:
 ___
 Top-View Zombie game made on Construct 2 by Mateus Amaral.
 
 In the game you play as a survivor of a zombie apocalipse and need to survive the zombies using only your gun.
 
-###Português:
+### Português:
 ___
 Jogo de zumbi com visão aérea feito em Construct 2 por Mateus Amaral.
 
